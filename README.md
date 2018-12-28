@@ -8,4 +8,4 @@ And the data structure is very simple
 
 TODO: 
 - re-discuss the structure
-- consider the newwork-wide program
+- consider the network-wide program
