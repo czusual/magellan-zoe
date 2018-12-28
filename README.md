@@ -1,5 +1,5 @@
 # magellan-zoe
-the flow aglebra part of Magellan
+the flow algebra part of Magellan
 
 *according to Magellan-18-sub paper*
 
